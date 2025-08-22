@@ -52,6 +52,3 @@ Graph 3 futási eredmények
 Megoldással töltött idő: kb. 10 óra \
 Mi volt nehéz: Branch and Bound algoritmus. \
 Mi volt érdekes: Pythonban való ismeretek bővítése. \
-Mi volt unalmas: - \
-Vélemény: Sokat kellett vele foglalkozni, hogy a megfelelő útvonalakat adják vissza az algoritmusok és a megfelelő sorrendben vizsgálja gráfokat.
-# Search-algorithm
